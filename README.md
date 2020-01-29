@@ -1,7 +1,7 @@
 ## digitalDiceチュートリアルのリソース倉庫
 
 micro:bit用のdigitalDiceチュートリアルコンテンツのリソース倉庫です。
-チュートリアルは[TBD]でアクセスできます。
+チュートリアルは[ここから](https://makecode.microbit.org/#tutorial:47104-83672-49204-21227)でアクセスできます。
 
 ### ここにあるもの
 * main.ts : 受講者が最終的に作るmicro:bitのメインルーチン
