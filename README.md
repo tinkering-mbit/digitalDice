@@ -13,4 +13,5 @@
 * 同CMS https://makecode.com/tutorial-tool
 * gitHubPagesを設定したので、投入したリソースは上記CMSから、https://tinkering-mbit.github.io/digitalDice/ で参照可能になる。
 
+### test
 ![nullImg](null.png)
