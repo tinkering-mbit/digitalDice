@@ -1,7 +1,7 @@
 ## digitalDiceチュートリアルのリソース倉庫
 
 * micro:bit用のdigitalDiceチュートリアルコンテンツのリソース倉庫です。
-* チュートリアルは[ここから](https://makecode.microbit.org/#tutorial:11580-02295-60072-15577)でアクセスできます。
+* チュートリアルは[ここから](https://makecode.microbit.org/#tutorial:57120-89742-08917-48452)でアクセスできます。
 
 ### ここにあるもの
 * main.ts : 受講者が最終的に作るmicro:bitのメインルーチン
@@ -12,6 +12,8 @@
 * チュートリアル作成のHowTo https://makecode.com/writing-docs/tutorials
 * 同CMS https://makecode.com/tutorial-tool
 * gitHubPagesを設定したので、投入したリソースは上記CMSから、https://tinkering-mbit.github.io/digitalDice/ で参照可能になる。
+
+* CMS上では、```### @explicitHints true```　が効いて、```#### ~ tutorialhint```　を認識してヒントに明示してくれるが、公開URLのほうではこれがまともに動かない。そのため、**Hint - Default Syntax**で書くしかなさそうで、ヒントの冒頭に文字を書きたいケースでは、```![null](https://tinkering-mbit.github.io/digitalDice/null.png)```　こんなnullイメージを入れるしかなさそう？
 
 ### test
 ![nullImg](null.png)
