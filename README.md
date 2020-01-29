@@ -5,14 +5,14 @@
 * tinkering:mbitの、最初のコンテンツです^^
 
 ### ここにあるもの
-* main.ts : 受講者が最終的に作るmicro:bitのメインルーチン
-* tutorial.md : チュートリアルのソース(作成方法と出版？方法は下記HowTo参照)
+* [main.ts](main.ts): 受講者が最終的に作るmicro:bitのメインルーチン
+* [tutorial.md](tutorial.md) : チュートリアルのソース(作成方法と出版？方法は下記HowTo参照)
 * その他、チュートリアルが引用する画像や動画(gif)など
 
 ### コンテンツ作成TIPS
 * チュートリアル作成のHowTo https://makecode.com/writing-docs/tutorials
   * 下記のツール(CMS)を使う
-  * ツールのエディタ上でマークダウンを書く。上のドキュメント見る前に、まずここのtutorial.md眺めるとわかりやすくなるかも？
+  * ツールのエディタ上でマークダウンを書く。上のドキュメント見る前に、まずここの[tutorial.md](tutorial.md)のソース眺めるとわかりやすくなるかも？
   * Runを押すと、右側にPreview(エミュレーション)が表示される
   * よさそうなら、共有を押すと公開用のURLが出てくる。
 * 同CMS https://makecode.com/tutorial-tool
