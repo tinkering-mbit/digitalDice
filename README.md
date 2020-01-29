@@ -20,6 +20,6 @@
 
 * Hint(吹き出し)にクセあり
   * Hintの最初に文字を出すことができない
-  * 実はCMSのエミュレータでは、```### @explicitHints true```　を設定すると、それが効いて、```#### ~ tutorialhint```　を認識し、以降はヒントに出してしてくれる
+  * 実は```### @explicitHints true```　を設定すると、それが効いて、```#### ~ tutorialhint```　を認識し、以降はヒントに出してしてくれる仕様で、CMSのエミュレータではそのようになる。
   * が、公開URLのほうではこれがまともに動かないみたい。そのため、**Hint - Default Syntax**で書くしかなさそう。
   * で、ヒントの冒頭に文字を書きたいケースでは、```![null](https://tinkering-mbit.github.io/digitalDice/null.png)```　こんなnullイメージをその前に入れ、あたかも冒頭に文字があるかのように見せる裏技的なテクしかなさそう？
