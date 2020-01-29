@@ -13,4 +13,4 @@
 * 同CMS https://makecode.com/tutorial-tool
 * gitHubPagesを設定したので、投入したリソースは上記CMSから、https://tinkering-mbit.github.io/digitalDice/ で参照可能になる。
 
-* CMS上では、```### @explicitHints true```　が効いて、```#### ~ tutorialhint```　を認識してヒントに明示してくれるが、公開URLのほうではこれがまともに動かない。そのため、**Hint - Default Syntax**で書くしかなさそうで、ヒントの冒頭に文字を書きたいケースでは、```![null](https://tinkering-mbit.github.io/digitalDice/null.png)```　こんなnullイメージを入れるしかなさそう？
+* CMS上では、```### @explicitHints true```　が効いて、```#### ~ tutorialhint```　を認識してヒントに明示してくれるが、公開URLのほうではこれがまともに動かない。そのため、**Hint - Default Syntax**で書くしかなさそうで、ヒントの冒頭に文字を書きたいケースでは、```![null](https://tinkering-mbit.github.io/digitalDice/null.png)```　こんなnullイメージを入れる裏技的なテクしかなさそう？
