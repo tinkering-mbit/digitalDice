@@ -10,13 +10,13 @@
 * その他、チュートリアルが引用する画像や動画(gif)など
 
 ### コンテンツ作成TIPS
-* チュートリアル作成のHowTo https://makecode.com/writing-docs/tutorials
+* チュートリアル作成のHowTo [https://makecode.com/writing-docs/tutorials](https://makecode.com/writing-docs/tutorials)
   * 下記のツール(CMS)を使う
   * ツールのエディタ上でマークダウンを書く。上のドキュメント見る前に、まずここの[tutorial.md](tutorial.md)のソース眺めるとわかりやすくなるかも？
   * **Run**を押すと、右側にPreview(エミュレーション)が表示される
   * よさそうなら、**共有**を押すと公開用のURLが出てくる。
 * 同CMS https://makecode.com/tutorial-tool
-* gitHubPagesを設定したので、投入した画像や動画などのリソースは上記CMSから、https://tinkering-mbit.github.io/digitalDice/ で参照可能になる。
+* gitHubPagesを設定したので、投入した画像や動画などのリソースは上記CMSから、[https://tinkering-mbit.github.io/digitalDice/](https://tinkering-mbit.github.io/digitalDice/) で参照可能になる。
 
 * Hint(吹き出し)にクセあり
   * Hintの最初に文字を出すことができない
