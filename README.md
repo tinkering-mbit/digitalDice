@@ -2,6 +2,7 @@
 
 * micro:bit用のdigitalDiceチュートリアルコンテンツのリソース倉庫です。
 * チュートリアルは[ここから](https://makecode.microbit.org/#tutorial:57120-89742-08917-48452)でアクセスできます。
+* tinkering:mbitの、最初のコンテンツです^^
 
 ### ここにあるもの
 * main.ts : 受講者が最終的に作るmicro:bitのメインルーチン
