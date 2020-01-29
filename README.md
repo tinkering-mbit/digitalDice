@@ -12,6 +12,6 @@
 ### コンテンツ作成TIPS
 * チュートリアル作成のHowTo https://makecode.com/writing-docs/tutorials
 * 同CMS https://makecode.com/tutorial-tool
-* gitHubPagesを設定したので、投入したリソースは上記CMSから、https://tinkering-mbit.github.io/digitalDice/ で参照可能になる。
+* gitHubPagesを設定したので、投入した画像や動画などのリソースは上記CMSから、https://tinkering-mbit.github.io/digitalDice/ で参照可能になる。
 
 * CMSのエミュレータでは、```### @explicitHints true```　が効いて、```#### ~ tutorialhint```　を認識して以降はヒントに出してしてくれるが、公開URLのほうではこれがまともに動かないみたい。そのため、**Hint - Default Syntax**で書くしかなさそうで、ヒントの冒頭に文字を書きたいケースでは、```![null](https://tinkering-mbit.github.io/digitalDice/null.png)```　こんなnullイメージをその前に入れる裏技的なテクしかなさそう？
