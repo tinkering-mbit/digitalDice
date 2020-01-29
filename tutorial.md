@@ -1,4 +1,3 @@
-### @explicitHints true
 
 # 電子サイコロ
 
@@ -13,7 +12,6 @@
 
 ``||input:ゆさぶられた時||`` ブロックを置きましょう
 
-#### ~ tutorialhint
 ```blocks
 input.onGesture(Gesture.Shake, () => {
     
@@ -25,7 +23,6 @@ input.onGesture(Gesture.Shake, () => {
 
 その中に、 ``||basic:表示を消す||`` ブロックを入れましょう
 
-#### ~ tutorialhint
 ```blocks
 input.onGesture(Gesture.Shake, function () {
     basic.clearScreen()
@@ -36,7 +33,8 @@ input.onGesture(Gesture.Shake, function () {
 
 さらに、``||input:画面が上になった時||`` ブロックを置きましょう
 
-#### ~ tutorialhint
+
+![null](https://tinkering-mbit.github.io/digitalDice/null.png)
 最初に、これを置いた後に
 ```blocks
 input.onGesture(Gesture.Shake, () => {  
@@ -63,7 +61,6 @@ input.onGesture(Gesture.Shake, function () {
 
 その中に、``||basic:数を表示||``ブロックを置きましょう
 
-#### ~ tutorialhint
 ```blocks
 input.onGesture(Gesture.ScreenUp, function () {
     basic.showNumber()
@@ -74,7 +71,7 @@ input.onGesture(Gesture.ScreenUp, function () {
 
 数字の部分に、``|||math:0から10までの乱数||``ブロックを置き、その数字を変更して``||math:1から6までの乱数||``のブロックを作ります。
 
-#### ~ tutorialhint
+![null](https://tinkering-mbit.github.io/digitalDice/null.png)
 まずこのようにして、
 ```blocks
 input.onGesture(Gesture.ScreenUp, function () {
@@ -92,8 +89,6 @@ input.onGesture(Gesture.ScreenUp, function () {
 
 プログラムは、こうなれば完成です。
 
-#### ~ tutorialhint
-
 ```blocks
 input.onGesture(Gesture.ScreenUp, function () {
     basic.showNumber(Math.randomRange(1, 6))
@@ -108,7 +103,6 @@ input.onGesture(Gesture.Shake, function () {
 シミュレータの **〇SHAKE** を押した後、シミュレータの外にカーソルを持っていきましょう。
 すると、数字が表示されるはずです。
 
-#### ~ tutorialhint
 ![Shaking a @boardname@ simulator](/static/mb/projects/rock-paper-scissors/rpsshake.gif)
 
 
@@ -117,7 +111,6 @@ input.onGesture(Gesture.Shake, function () {
  @boardname@ に、組んだプログラムを入れましょう。  ``|Download|`` をクリックし、説明に従って @boardname@ にプログラムを入れます。
 これでプログラムの準備ができました！　次はこれをカプセルに入れてサイコロにしましょう！
 
-#### ~ tutorialhint
 ![A @boardname@ in a hand](/static/mb/projects/rock-paper-scissors/hand.jpg)
 
 ## Step 9 @fullscreen
