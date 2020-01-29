@@ -16,7 +16,7 @@
   * **Run**を押すと、右側にPreview(エミュレーション)が表示される
   * よさそうなら、**共有**を押すと公開用のURLが出てくる。
 * 同CMS https://makecode.com/tutorial-tool
-* [このリポジトリはgitHubPagesを設定]((https://tinkering-mbit.github.io/digitalDice/))したので、投入した画像や動画などのリソースは上記CMSから、```https://tinkering-mbit.github.io/digitalDice/リソースのパス``` で参照可能になる。
+* [このリポジトリはgitHubPagesを設定](https://tinkering-mbit.github.io/digitalDice/)したので、投入した画像や動画などのリソースは上記CMSから、```https://tinkering-mbit.github.io/digitalDice/リソースのパス``` で参照可能になる。
 
 * Hint(吹き出し)にクセあり
   * Hintの最初に文字を出すことができない
