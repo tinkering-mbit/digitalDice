@@ -20,9 +20,9 @@
 
 * Hint(吹き出し)にクセあり
   * Hintの最初に文字を出すことができない
-  * 実は```### @explicitHints true```　を設定すると、それが効いて、```#### ~ tutorialhint```　を認識し、以降はヒントに出してしてくれる仕様になっていて、これを設定すればHintの冒頭を文字列にもできる。で、CMSのエミュレータではそのように表示される。
+  * 実は```### @explicitHints true```　を設定すると、```#### ~ tutorialhint```　を認識し、以降は明示的にヒントに出す仕様になっていて、これを設定すればHintの冒頭を文字列にもできる。CMSのエミュレータではそのように表示される。
   * が、公開URLのほうではこれがまともに動かないみたい。そのため、**Hint - Default Syntax**で書くしかなさそう。Default SyntaxはHintの冒頭を文字列にすることができない(コードか画像が必ず冒頭になる)
-  * で、ヒントの冒頭に文字を書きたいケースでは、```![null](https://tinkering-mbit.github.io/digitalDice/null.png)```　こんなnullイメージをその前に入れ、あたかも冒頭に文字があるかのように見せる裏技的なテクしかなさそう？ ここの[tutorial.md](tutorial.md)ではそれを使っている。(ちなみにnullなコードを入れると処理が破綻してしまう)
+  * ヒントの冒頭に文字を書きたいケースでは、```![null](https://tinkering-mbit.github.io/digitalDice/null.png)```　こんなnullイメージをその前に入れ、あたかも冒頭に文字があるかのように見せる裏技的なテクしかなさそう？ ここの[tutorial.md](tutorial.md)ではそれを使っている。(ちなみにnullなコードを入れると処理が破綻してしまう)
 
 * ブロック一覧パネルのふるまい
   * 通常のmakecode環境では使える全てのブロックが一覧のパネルに出現しますが、tutorialでは(学習者が探すのが難しくなるため)必要な(というよりtutorialのmarkdownで言及した)パーツのみが現れます
