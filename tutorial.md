@@ -34,7 +34,7 @@ input.onGesture(Gesture.Shake, function () {
 さらに、``||input:画面が上になった時||`` ブロックを置きましょう
 
 
-![null](https://tinkering-mbit.github.io/digitalDice/null.png)
+![null](https://tinkering-mbit.github.io/digitalDice/imgs/null.png)
 最初に、これを置いた後に
 ```blocks
 input.onGesture(Gesture.Shake, () => {  
@@ -71,7 +71,7 @@ input.onGesture(Gesture.ScreenUp, function () {
 
 数字の部分に、``|||math:0から10までの乱数||``ブロックを置き、その数字を変更して``||math:1から6までの乱数||``のブロックを作ります。
 
-![null](https://tinkering-mbit.github.io/digitalDice/null.png)
+![null](https://tinkering-mbit.github.io/digitalDice/imgs/null.png)
 まずこのようにして、
 ```blocks
 input.onGesture(Gesture.ScreenUp, function () {
