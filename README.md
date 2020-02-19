@@ -1,7 +1,7 @@
 ## digitalDiceチュートリアルのリソース倉庫
 
 * micro:bit用のdigitalDiceチュートリアルコンテンツのリソース倉庫です。
-* 作成したチュートリアルは[ここから](https://makecode.microbit.org/#tutorial:57120-89742-08917-48452)アクセスできます。
+* 作成したチュートリアルは[ここから](https://makecode.microbit.org/#tutorial:51855-46406-68930-90031)アクセスできます。
 * tinkering:mbitの、最初のコンテンツです^^
 
 ### ここにあるもの
