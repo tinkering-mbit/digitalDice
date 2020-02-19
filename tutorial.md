@@ -21,7 +21,7 @@ input.onGesture(Gesture.Shake, () => {
 
 ## Step 2 @fullscreen
 
-その中に、 ``||basic:表示を消す||`` ブロックを入れましょう
+その中に、 ``||basic:表示を消す||`` ブロックを入れましょう
 
 ```blocks
 input.onGesture(Gesture.Shake, function () {
@@ -114,12 +114,46 @@ input.onGesture(Gesture.Shake, function () {
 ![A @boardname@ in a hand](/static/mb/projects/rock-paper-scissors/hand.jpg)
 
 ## Step 9 @fullscreen
-電池ボックスをつなぎます
+必要なパーツは以下の通りです。
+![parts](https://tinkering-mbit.github.io/digitalDice/imgs/parts.jpg)
+
 
 ## Step 10 @fullscreen
-カプセルの透明なほうに @boardname@ の表示がある方を外向きにして置きます
+電池ボックスに電池を入れ、色のついたカプセルの片割れに入れます
+
+![null](https://tinkering-mbit.github.io/digitalDice/imgs/null.png)
+電池ボックスをカプセルに入れて
+![s1](https://tinkering-mbit.github.io/digitalDice/imgs/step1.jpg)
+
+プチプチ(緩衝材)で覆います
+![s2](https://tinkering-mbit.github.io/digitalDice/imgs/step2.jpg)
+
 
 ## Step 11 @fullscreen
-その上にプチプチを置き、電池ボックスを置いた後、色のついたカプセルをはめたら完成！
+@boardname@の電源端子に、電池ボックスのケーブルを差し込みます
 
-カプセルを転がすとサイコロがうごきます～
+![null](https://tinkering-mbit.github.io/digitalDice/imgs/null.png)
+差し込んだ様子
+![b2](https://tinkering-mbit.github.io/digitalDice/imgs/power4.jpg)
+
+端子の向きに注意。(この向きじゃないと差し込めない)
+![b1](https://tinkering-mbit.github.io/digitalDice/imgs/power2.jpg)
+
+電池ボックスをつなぐとすぐにmicro:bitには数字が表示されます
+
+## Step 12 @fullscreen
+いよいよ完成です！
+
+![null](https://tinkering-mbit.github.io/digitalDice/imgs/null.png)
+@boardname@ の表示がある方を外向きにして電池ボックスの上に置きます
+![s3](https://tinkering-mbit.github.io/digitalDice/imgs/step3.jpg)
+
+カプセルをはめたら完成！
+![s3](https://tinkering-mbit.github.io/digitalDice/imgs/step4.jpg)
+
+
+## Step 11 @fullscreen
+
+![s3](https://tinkering-mbit.github.io/digitalDice/imgs/dice.mp4)
+
+カプセルを転がすとサイコロがうごきます！
