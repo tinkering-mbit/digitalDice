@@ -11,7 +11,7 @@
 
 ### コンテンツ作成TIPS
 * チュートリアル作成のHowTo [https://makecode.com/writing-docs/tutorials](https://makecode.com/writing-docs/tutorials)
-  * 下記のツール(CMS)を使う
+  * 下記のツール(CMS)を使う(micro:bitモードにすることを忘れずに)
   * ツールのエディタ上でマークダウンを書く。上のドキュメント見る前に、まずここの[tutorial.md](tutorial.md)のソース眺めるとわかりやすくなるかも？
   * **Run**を押すと、右側にPreview(エミュレーション)が表示される
   * よさそうなら、**共有**を押すと公開用のURLが出てくる。
