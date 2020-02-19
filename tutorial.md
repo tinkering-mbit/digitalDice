@@ -113,7 +113,7 @@ input.onGesture(Gesture.Shake, function () {
 
 ![A @boardname@ in a hand](/static/mb/projects/rock-paper-scissors/hand.jpg)
 
-## Step 9 @fullscreen
+## Step 9 @unplugged
 必要なパーツは以下の通りです。
 ![parts](https://tinkering-mbit.github.io/digitalDice/imgs/parts.jpg)
 
